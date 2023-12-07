@@ -26,7 +26,7 @@ const Seven = () => {
                     Alerts
                   </h4>
                   <p className="text-sm text-gray-600">
-                    Get Notified when users aren't engaged
+                    Get Notified when users arent engaged
                   </p>
                   <a
                     href="/about"
@@ -50,7 +50,7 @@ const Seven = () => {
                     Alerts
                   </h4>
                   <p className="text-sm text-gray-600">
-                    Get Notified when users aren't engaged
+                    Get Notified when users arent engaged
                   </p>
                   <a
                     href="/about"
@@ -74,7 +74,7 @@ const Seven = () => {
                     Alerts
                   </h4>
                   <p className="text-sm text-gray-600">
-                    Get Notified when users aren't engaged
+                    Get Notified when users arent engaged
                   </p>
                   <a
                     href="/about" 
