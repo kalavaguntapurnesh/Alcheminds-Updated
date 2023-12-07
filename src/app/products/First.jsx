@@ -10,7 +10,7 @@ const First = () => {
             <div className="relative z-10 col-span-1">
               <div className="w-full max-w-xl space-y-8">
                 <h3 className="text-3xl font-bold tracking-tight sm:text-4xl dark:text-white">
-                  Build beautiful Tours that guide users to "aha"!
+                  Build beautiful Tours that guide users to aha!
                 </h3>
                 <p className="max-w-lg text-lg font-medium dark:text-gray-300">
                   Start with a template and make it your own. Add your color

@@ -45,7 +45,7 @@ const Footer = () => {
                       href="/about"
                       className="no-underline text-base leading-6 "
                     ></a>
-                    What's New?
+                    Whats New?
                   </li>
 
                   <li>
