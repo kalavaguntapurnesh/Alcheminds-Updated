@@ -18,6 +18,20 @@ const Hero = () => {
                   patterns that drive real results. Skip the dev cycles and take
                   control of your produt goals with Chameleon.
                 </div>
+                <div className="w-full pt-8">
+                  <div className="flex flex-col items-center justify-center space-y-4 sm:space-x-4 sm:space-y-0 lg:items-center sm:flex-row lg:justify-start">
+                    <a
+                      href="/about"
+                      className="inline-flex items-center justify-center font-bold transition duration-200 ease-in-out focus:outline-none text-white border-2 border-companyColor hover:border-companyColor dark:border-companyColor dark:hover:border-companyColor px-10 py-4 text-xl rounded-xl bg-companyColor hover:bg-companyColor dark:bg-companyColor"
+                    >
+                      <span>Get Started</span>
+                    </a>
+
+                    <a href="/about" className="inline-flex items-center justify-center font-bold transition duration-200 ease-in-out focus:outline-none border-2 border-companyColor text-black hover:bg-companyColor px-10 py-4 text-xl rounded-xl">
+                      Sign Up Here
+                    </a>
+                  </div>
+                </div>
               </div>
             </div>
             <div className="relative w-full max-w-3xl mx-auto border-2 border-red-500">
