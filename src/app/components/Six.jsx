@@ -20,7 +20,7 @@ const Six = () => {
                   </p>
                 </div>
               </div>
-              <div className="border-2 border-red-400">
+              <div >
                 <Image
                   src="/productOne.png"
                   width={500}
