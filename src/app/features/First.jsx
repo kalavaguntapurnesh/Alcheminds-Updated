@@ -3,7 +3,7 @@ import React from "react";
 const First = () => {
   return (
     <div className="bg-gray-50">
-      <div className="relative z-20 py-16">
+      <div className="relative pt-40 pb-16">
         <div className="w-full">
           <div className="w-full px-4 mx-auto max-w-7xl">
             <div className="justify-center w-full text-center pb-14">

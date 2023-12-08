@@ -4,7 +4,7 @@ import Image from "next/image";
 const Five = () => {
   return (
     <div className="bg-gray-50">
-      <div className="relative z-20 py-16">
+      <div className="relative py-16">
         <div className="w-full space-y-16">
           <div className="grid w-full grid-cols-1 gap-10 px-4 mx-auto max-w-7xl sm:grid-cols-2 lg:grid-cols-3">
             <a
