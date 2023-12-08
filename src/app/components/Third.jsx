@@ -3,7 +3,7 @@ import React from 'react'
 const Third = () => {
   return (
     <div className='bg-gray-50'>
-        <div className='relative z-20 py-16'>
+        <div className='relative py-16'>
             <div>
                 <div className='text-center'>
                     <h2 className='text-3xl font-bold leading-9 tracking-tight

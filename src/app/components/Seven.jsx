@@ -4,7 +4,7 @@ import Image from "next/image";
 const Seven = () => {
   return (
     <div className="bg-gray-50 ">
-      <div className="relative z-20 py-16">
+      <div className="relative py-16">
         <div className="w-full">
           <div className="w-full px-6 mx-auto space-y-12 max-w-7xl">
             <div className="text-center">

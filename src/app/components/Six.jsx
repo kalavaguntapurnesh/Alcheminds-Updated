@@ -4,7 +4,7 @@ import Image from "next/image";
 const Six = () => {
   return (
     <div className="bg-white">
-      <div className="relative z-20 py-16">
+      <div className="relative py-16">
         <div className="w-full">
           <div className="w-full px-6 mx-auto max-w-7xl">
             <div className="grid w-full grid-cols-1 gap-10 md:gap-20 md:grid-cols-2">

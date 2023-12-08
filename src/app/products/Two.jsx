@@ -4,7 +4,7 @@ import Image from "next/image"
 const Two = () => {
   return (
     <div className="bg-white">
-      <div className="relative z-20 py-16">
+      <div className="relative py-16">
         <div className="w-full">
           <div className="grid items-center w-full grid-cols-1 gap-10 mx-auto md:gap-20 max-w-7xl md:grid-cols-2">
             <div className="flex justify-center md:order-last relative z-10 col-span-1">

@@ -2,7 +2,7 @@ import React from "react";
 
 const Four = () => {
   return (
-    <div className="bg-white relative z-20 py-16">
+    <div className="bg-white relative py-16">
       <div className="w-full">
         <div className="px-4 sm:px-6 lg:px-8">
           <div className="relative max-w-lg mx-auto lg:max-w-7xl">

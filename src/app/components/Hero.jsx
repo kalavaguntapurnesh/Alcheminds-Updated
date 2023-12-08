@@ -4,10 +4,10 @@ import Image from "next/image";
 const Hero = () => {
   return (
     <div className="bg-gray-50">
-      <div className="relative z-20 py-16">
+      <div className="relative pt-40 pb-16">
         <div className="w-full space-y-10 lg:space-y-20">
-          <div className="relative z-10 grid items-center w-full grid-cols-1 gap-16 px-4 mx-auto lg:gap-10 md:gap-16 lg:grid-cols-2 max-w-7xl">
-            <div className="relative z-20">
+          <div className="relative  grid items-center w-full grid-cols-1 gap-16 px-4 mx-auto lg:gap-10 md:gap-16 lg:grid-cols-2 max-w-7xl">
+            <div className="relative ">
               <div className="text-center max-w-7xl lg:text-left">
                 <h1 className="text-4xl font-bold leading-10 tracking-tight dark:text-white sm:text-6xl sm:leading-none md:max-w-2xl mx-auto">
                   More revenue, less churn, and happier customers-without
