@@ -12,21 +12,28 @@ const Five = () => {
               className="flex flex-col overflow-hidden transition
             duration-300 ease-in-out bg-white rounded-lg shadow-lg hover:shadow-xl hover:no-underline"
             >
-              <div className="relative flex items-center justify-center h-56">
-                <Image src="/" alt="" width={224} height={224}></Image>
+              <div className="relative flex items-center justify-center h-56 overflow-hidden ">
+                <Image
+                  src="/young-attractive-smiling-student.jpg"
+                  alt=""
+                  width={224}
+                  height={224}
+                  className="w-full h-full rounded-xl ml-1 mr-1 mt-1 mb-1"
+                ></Image>
               </div>
               <div className="flex flex-col flex-1 p-6 space-y-6">
                 <div className="text-sx font-semibold tracking-widest text-gray-500 uppercase">
-                  Information Technology
+                  edukare
                 </div>
 
                 <div class="text-2xl font-bold tracking-tight text-gray-900">
-                  How Chili Piper created a product-led sales motion that
-                  generated over $150K+ ARR from upsells in a few weeks
+                  Education care software is 
+                   designed to streamline and enhance various aspects of
+                  the education sector
                 </div>
 
                 <div className="flex items-center space-x-2 font-medium text-base text-gray-600">
-                  <span>Read Case Study</span>
+                  <span>Read More</span>
                   <svg
                     class="w-5 h-5"
                     fill="none"
@@ -50,21 +57,28 @@ const Five = () => {
               className="flex flex-col overflow-hidden transition
             duration-300 ease-in-out bg-white rounded-lg shadow-lg hover:shadow-xl hover:no-underline"
             >
-              <div className="relative flex items-center justify-center h-56">
-                <Image src="/" alt="" width={224} height={224}></Image>
+              <div className="relative flex items-center justify-center h-56  overflow-hidden ">
+                <Image
+                  src="/young-doctor-holding-paper-idea-.jpg"
+                  alt=""
+                  width={224}
+                  height={224}
+                  className="w-full h-full rounded-xl ml-1 mr-1 mt-1 mb-1"
+                ></Image>
               </div>
               <div className="flex flex-col flex-1 p-6 space-y-6">
                 <div className="text-sx font-semibold tracking-widest text-gray-500 uppercase">
-                  Software
+                  dentalkare
                 </div>
 
                 <div class="text-2xl font-bold tracking-tight text-gray-900">
-                  How Chili Piper created a product-led sales motion that
-                  generated over $150K+ ARR from upsells in a few weeks
+                  Dental care software is 
+                  designed to optimize and enhance various aspects of dental
+                   and patient care
                 </div>
 
                 <div className="flex items-center space-x-2 font-medium text-base text-gray-600">
-                  <span>Read Case Study</span>
+                  <span>Read More</span>
                   <svg
                     class="w-5 h-5"
                     fill="none"
@@ -83,27 +97,32 @@ const Five = () => {
               </div>
             </a>
 
-
             <a
               href=""
               className="flex flex-col overflow-hidden transition
             duration-300 ease-in-out bg-white rounded-lg shadow-lg hover:shadow-xl hover:no-underline"
             >
-              <div className="relative flex items-center justify-center h-56">
-                <Image src="/" alt="" width={224} height={224}></Image>
+              <div className="relative flex items-center justify-center h-56 overflow-hidden ">
+                <Image
+                  src="/closeup-economist-using-calculat.jpg"
+                  alt=""
+                  width={224}
+                  height={224}
+                  className="w-full h-full rounded-xl ml-1 mr-1 mt-1 mb-1"
+                ></Image>
               </div>
               <div className="flex flex-col flex-1 p-6 space-y-6">
                 <div className="text-sx font-semibold tracking-widest text-gray-500 uppercase">
-                  Artificial Intelligence
+                  logbucks
                 </div>
 
                 <div class="text-2xl font-bold tracking-tight text-gray-900">
-                  How Chili Piper created a product-led sales motion that
-                  generated over $150K+ ARR from upsells in a few weeks
+                  Time log, hourly rate, billing software is designed to streamline the
+                  process of tracking billable hours
                 </div>
 
                 <div className="flex items-center space-x-2 font-medium text-base text-gray-600">
-                  <span>Read Case Study</span>
+                  <span>Read More</span>
                   <svg
                     class="w-5 h-5"
                     fill="none"

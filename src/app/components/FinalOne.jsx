@@ -1,9 +1,9 @@
 import React from "react";
 import Image from "next/image";
 
-const Seven = () => {
+const FinalOne = () => {
   return (
-    <div className="bg-gray-50 ">
+    <div className="bg-white ">
       <div className="relative py-16">
         <div className="w-full">
           <div className="w-full px-6 mx-auto space-y-12 max-w-7xl">
@@ -23,10 +23,11 @@ const Seven = () => {
                 ></Image>
                 <div className="p-6 space-y-4 text-center">
                   <h4 className="text-2xl font-semibold tracking-tight text-gray-900">
-                    Alerts
+                    Software Development
                   </h4>
                   <p className="text-sm text-gray-600">
-                    Get Notified when users arent engaged
+                    Dynamic and innovative enterprise applications to optimize
+                    your critical business processes and functions.
                   </p>
                   <a
                     href="/about"
@@ -47,10 +48,12 @@ const Seven = () => {
                 ></Image>
                 <div className="p-6 space-y-4 text-center">
                   <h4 className="text-2xl font-semibold tracking-tight text-gray-900">
-                    Alerts
+                    Cloud Migration
                   </h4>
                   <p className="text-sm text-gray-600">
-                    Get Notified when users arent engaged
+                    We offer expertise and advisory service for the quick
+                    development & management of cloud-native enterprise
+                    applications
                   </p>
                   <a
                     href="/about"
@@ -71,13 +74,15 @@ const Seven = () => {
                 ></Image>
                 <div className="p-6 space-y-4 text-center">
                   <h4 className="text-2xl font-semibold tracking-tight text-gray-900">
-                    Alerts
+                    Business Development
                   </h4>
                   <p className="text-sm text-gray-600">
-                    Get Notified when users arent engaged
+                    We help organizations from different industries. Our
+                    services allow our clients to work towards
+                    their priority.
                   </p>
                   <a
-                    href="/about" 
+                    href="/about"
                     className="block px-3 py-2 mt-6 text-sm font-semibold text-gray-700 transition duration-200 ease-in-out bg-gray-100 border border-gray-400 rounded-md hover:border-gray-400 hover:no-underline hover:bg-gray-200"
                   >
                     Learn More
@@ -92,4 +97,4 @@ const Seven = () => {
   );
 };
 
-export default Seven;
+export default FinalOne;

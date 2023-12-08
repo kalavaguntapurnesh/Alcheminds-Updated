@@ -11,11 +11,12 @@ const Six = () => {
               <div className="flex flex-col justify-center items-center">
                 <div className="space-y-5">
                   <h3 className="text-4xl font-bold tracking-tight dark:text-white">
-                    Shoot in-app messages to score.
+                    We Design Together With Our Clients
                   </h3>
                   <p className="text-lg text-gray-600 dark:text-white/70">
-                    Target custom user segments with in-app messaging and
-                    guidance that tells them exactly what they need to hear
+                    While working for AlcheMinds Solutions, you can be assured a
+                    sense of empowerment, opportunities for growth and the
+                    opportunity to make a real difference.
                   </p>
                 </div>
               </div>
@@ -31,35 +32,38 @@ const Six = () => {
 
             <div className="grid w-full grid-cols-1 gap-10 pt-16 md:grid-cols-3">
               <div className="flex flex-col space-y-2">
-                <h5 className="text-xl font-medium text-gray-900 dark:text-white">Import User Segments</h5>
+                <h5 className="text-xl font-medium text-gray-900 dark:text-white">
+                  Loyalty for Clients
+                </h5>
                 <div className="text-base text-gray-600 dark:text-white/70">
                   <p>
-                    Put all of that user data from Heap or Mixpanel to work and
-                    target specific cohorts based on account level, user
-                    behavior, and more
+                    We consider customers are everything we do. Our customers’
+                    needs are at the forefront of our business.
                   </p>
                 </div>
               </div>
 
               <div className="flex flex-col space-y-2">
-                <h5 className="text-xl font-medium text-gray-900 dark:text-white">Import User Segments</h5>
+                <h5 className="text-xl font-medium text-gray-900 dark:text-white">
+                  Higher Client Satisfaction
+                </h5>
                 <div className="text-base text-gray-600 dark:text-white/70">
                   <p>
-                    Put all of that user data from Heap or Mixpanel to work and
-                    target specific cohorts based on account level, user
-                    behavior, and more
+                    We thrive by delivering on customer satisfaction
+                    expectations in combination with quality, value, and
+                    complaint handling.
                   </p>
                 </div>
               </div>
 
-
               <div className="flex flex-col space-y-2">
-                <h5 className="text-xl font-medium text-gray-900 dark:text-white">Import User Segments</h5>
+                <h5 className="text-xl font-medium text-gray-900 dark:text-white">
+                  Reliable Client Growth
+                </h5>
                 <div className="text-base text-gray-600 dark:text-white/70">
                   <p>
-                    Put all of that user data from Heap or Mixpanel to work and
-                    target specific cohorts based on account level, user
-                    behavior, and more
+                    We understand the need of customers and use every possible way 
+                    to ensure for the growth of the client.
                   </p>
                 </div>
               </div>

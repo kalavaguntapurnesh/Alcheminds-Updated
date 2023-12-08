@@ -6,9 +6,9 @@ import Third from "@/app/components/Third";
 import Four from "@/app/components/Four";
 import Five from "@/app/components/Five";
 import Six from "@/app/components/Six";
-import Seven from "@/app/components/Seven";
+import Carousel from "@/app/components/Carousel";
+import FinalOne from "@/app/components/FinalOne";
 import Footer from "@/app/components/Footer";
-
 
 export default function Home() {
   return (
@@ -17,10 +17,11 @@ export default function Home() {
       <Hero />
       <One />
       <Third />
-      <Four />
       <Five />
       <Six />
-      <Seven />
+      <Carousel />
+      <FinalOne />
+      {/*<Four />*/}
       <Footer />
     </main>
   );

@@ -3,7 +3,7 @@ import Image from "next/image"
 
 const Two = () => {
   return (
-    <div className="bg-white">
+    <div className="bg-gray-50">
       <div className="relative py-16">
         <div className="w-full">
           <div className="grid items-center w-full grid-cols-1 gap-10 mx-auto md:gap-20 max-w-7xl md:grid-cols-2">
