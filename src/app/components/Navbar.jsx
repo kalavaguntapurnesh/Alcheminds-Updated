@@ -23,7 +23,7 @@ const Navbar = () => {
         <li className="lg:p-4 p-[11px] cursor-pointer text-primaryColor font-medium hover:text-black"><Link href="/features">Features</Link></li>
         <li className="lg:p-4 p-[11px] cursor-pointer text-primaryColor font-medium hover:text-black"><Link href="/products">Services</Link></li>
         <li className="lg:p-4 p-[11px] cursor-pointer text-primaryColor font-medium hover:text-black"><Link href="/contact">Contact</Link></li>
-        <li className="lg:p-4 p-[11px] cursor-pointer "><a href="" className="bg-red-500 
+        <li className="lg:p-4 p-[11px] cursor-pointer "><a href="" className="bg-companyColor 
         rounded-[4px] text-white px-8 py-2.5 ">Get Started </a></li>
 
        

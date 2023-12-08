@@ -8,13 +8,21 @@ const First = () => {
         <div className="w-full">
           <div className="w-full px-4 mx-auto max-w-7xl">
             <div className="justify-center w-full text-center pb-14">
-              <div className="w-full max-w-3xl mx-auto space-y-4">
-                <h2 className="text-base font-medium tracking-widest text-gray-500 uppercase dark:text-white">
-                  About Us
-                </h2>
-                <h3 className="text-4xl font-bold tracking-tight dark:text-white">
-                  Integrations to help you boost feature adoption
+              <div className="w-full max-w-5xl mx-auto space-y-4">
+                <h3 className="text-4xl font-semibold tracking-tight dark:text-white">
+                  <span className="text-companyColor">About</span> Us
                 </h3>
+                <div className="prose-lg text-gray-600 dark:text-white">
+                  <p>
+                    Alcheminds Solutions is global software, back office
+                    services and S/W products/applications Company incorporated
+                    in year 2023. We deliver complete technology, business
+                    processes, software design and development, software quality
+                    assurance, software maintenance and back services to
+                    enterprises worldwide. We are right people with right
+                    passion, right strategy and next-gen technologies.
+                  </p>
+                </div>
               </div>
             </div>
 
@@ -29,11 +37,12 @@ const First = () => {
                   </div>
                   <div className="flex-1">
                     <h5 className="text-xl font-semibold text-gray-900">
-                      Mixpanel
+                      EduKare
                     </h5>
-                    <div className="text-base text-gray-600">
-                      Launch hyper-targeted in-product experiences and better
-                      analyze their performance alongside the rest of your data
+                    <div className="text-base text-gray-600 mt-2">
+                      Education care software is a comprehensive and innovative
+                      solution designed to streamline and enhance various
+                      aspects of the education sector.
                     </div>
                   </div>
                 </div>
@@ -49,11 +58,12 @@ const First = () => {
                   </div>
                   <div className="flex-1">
                     <h5 className="text-xl font-semibold text-gray-900">
-                      Mixpanel
+                      DentalKare
                     </h5>
-                    <div className="text-base text-gray-600">
-                      Launch hyper-targeted in-product experiences and better
-                      analyze their performance alongside the rest of your data
+                    <div className="text-base text-gray-600 mt-2">
+                      Dental care software is a specialized digital solution
+                      designed to optimize and enhance various aspects of dental
+                      practice management and patient care.
                     </div>
                   </div>
                 </div>
@@ -69,11 +79,12 @@ const First = () => {
                   </div>
                   <div className="flex-1">
                     <h5 className="text-xl font-semibold text-gray-900">
-                      Mixpanel
+                      LogBucks
                     </h5>
-                    <div className="text-base text-gray-600">
-                      Launch hyper-targeted in-product experiences and better
-                      analyze their performance alongside the rest of your data
+                    <div className="text-base text-gray-600 mt-2">
+                      Time log, hourly rate, billing software is a specialized
+                      digital solution designed to simplify and streamline the
+                      process of tracking billable hours
                     </div>
                   </div>
                 </div>

@@ -7,20 +7,27 @@ const First = () => {
         <div className="w-full">
           <div className="w-full px-4 mx-auto max-w-7xl">
             <div className="justify-center w-full text-center pb-14">
-              <div className="w-full max-w-3xl mx-auto space-y-4">
-                <h3 className="text-4xl font-bold tracking-tight dark:text-white">
-                  Our Services
+              <div className="w-full max-w-5xl mx-auto space-y-4">
+                <h3 className="text-4xl font-semibold tracking-tight dark:text-white">
+                <span className="text-companyColor">Our</span> Services
                 </h3>
                 <div className="prose-lg text-gray-600 dark:text-white">
-                  <p>There are a variety of ways to integrate with us.</p>
+                  <p>
+                    Our experience in various business verticals/domains and
+                    different technologies allows us to serve customers of all
+                    sizes around the world, providing them with custom software
+                    development; product development in web, mobile or client
+                    server environments; or software maintenance and QA. In
+                    addition, we serve customers with back-office requirements.
+                  </p>
                 </div>
               </div>
             </div>
 
-            <div className="grid w-full grid-cols-1 gap-8 md:grid-cols-3">
+            <div className="grid w-full grid-cols-1 gap-8 md:grid-cols-3 pt-8">
               <div className="flex space-x-6">
                 <svg
-                  class="w-12 h-12 shrink-0 fill-green-500"
+                  class="w-12 h-12 shrink-0 fill-companyColor"
                   id="Layer_1"
                   data-name="Layer 1"
                   xmlns="http://www.w3.org/2000/svg"
@@ -34,12 +41,12 @@ const First = () => {
                 </svg>
                 <div className="flex flex-col space-y-2">
                   <h5 className="text-xl font-semibold text-gray-900">
-                    Add-On
+                    Software Development
                   </h5>
                   <div className="text-gray-500 text-sm">
                     <p>
-                      Add functionality or content to your Chameleon tour from
-                      another product
+                      Dynamic and innovative enterprise applications to optimize
+                      your critical business processes and functions.
                     </p>
                   </div>
                 </div>
@@ -47,7 +54,7 @@ const First = () => {
 
               <div className="flex space-x-6">
                 <svg
-                  class="w-12 h-12 shrink-0 fill-green-500"
+                  class="w-12 h-12 shrink-0 fill-companyColor"
                   id="Layer_1"
                   data-name="Layer 1"
                   xmlns="http://www.w3.org/2000/svg"
@@ -61,11 +68,13 @@ const First = () => {
                 </svg>
                 <div className="flex flex-col space-y-2">
                   <h5 className="text-xl font-semibold text-gray-900">
-                    Data Destination
+                    Cloud Migration
                   </h5>
                   <div className="text-gray-500 text-sm">
                     <p>
-                      Use this integration as a source to send data to Chameleon
+                      We offer expertise and advisory service for the quick
+                      development & management of cloud-native enterprise
+                      applications
                     </p>
                   </div>
                 </div>
@@ -73,7 +82,7 @@ const First = () => {
 
               <div className="flex space-x-6">
                 <svg
-                  class="w-12 h-12 shrink-0 fill-green-500"
+                  class="w-12 h-12 shrink-0 fill-companyColor"
                   id="Layer_1"
                   data-name="Layer 1"
                   xmlns="http://www.w3.org/2000/svg"
@@ -87,21 +96,19 @@ const First = () => {
                 </svg>
                 <div className="flex flex-col space-y-2">
                   <h5 className="text-xl font-semibold text-gray-900">
-                    Data Source
+                    Business Development
                   </h5>
                   <div className="text-gray-500 text-sm">
                     <p>
-                      Use this integration as a destination for Chameleon data
+                      We helped organizations from different sectors. Our
+                      services allow our clients to work towards their priority.
                     </p>
                   </div>
                 </div>
               </div>
             </div>
 
-            <div className=" text-center pt-10 prose-lg text-gray-600 dark:text-white">
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima, autem veniam eveniet sint quae in totam perferendis esse quo magni qui aliquam ex consequatur, numquam tenetur fugiat ut quod! Dignissimos?</p>
-
-            </div>
+            
           </div>
         </div>
       </div>

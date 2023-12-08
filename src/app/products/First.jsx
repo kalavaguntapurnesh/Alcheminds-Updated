@@ -3,7 +3,7 @@ import Image from "next/image"
 
 const First = () => {
   return (
-    <div className="bg-gray-50">
+    <div className="bg-white">
       <div className="relative pt-40 pb-16">
         <div className="w-full">
           <div className="grid items-center w-full grid-cols-1 gap-10 px-4 mx-auto md:gap-20 max-w-7xl md:grid-cols-2">
