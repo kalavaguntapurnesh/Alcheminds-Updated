@@ -40,7 +40,7 @@ const FinalOne = () => {
 
               <div className="flex flex-col items-center">
                 <Image
-                  src="/productOne.png"
+                  src="/productTwo.png"
                   alt="imageOne"
                   width={300}
                   height={300}

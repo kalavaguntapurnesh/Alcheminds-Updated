@@ -105,7 +105,7 @@ const Zero = () => {
                 We have highly skilled engineers with excellent technical
                 knowledge and experience in using the latest software standards.
                 We have built a large pool of knowledge that we apply to deliver
-                solutions that meet client's needs, expectations and budget. By
+                solutions that meet client needs, expectations and budget. By
                 putting our clients at the heart of everything we do, we are
                 proud that we are still supporting our very first business
                 client.
