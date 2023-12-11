@@ -22,7 +22,7 @@ const Third = () => {
             <div className="w-full flex flex-wrap justify-evenly mt-10 pb-2 pt-2 md:pl-28 md:pr-28">
               <div className="relative flex flex-col text-gray-700 bg-white shadow-md w-96 rounded-xl bg-clip-border mt-8">
                 <div
-                  className="relative h-56  overflow-hidden text-white shadow-lg ml-2 mr-2
+                  className="relative h-56  overflow-hidden text-white shadow-lg ml-2 mr-2 mt-2
         rounded-xl bg-blue-gray-500 bg-clip-border shadow-blue-gray-500/40"
                 >
                   <Image
@@ -59,7 +59,7 @@ const Third = () => {
 
               <div className="relative flex flex-col text-gray-700 bg-white shadow-md w-96 rounded-xl bg-clip-border mt-8">
                 <div
-                  className="relative h-56  overflow-hidden text-white shadow-lg ml-2 mr-2
+                  className="relative h-56  overflow-hidden text-white shadow-lg ml-2 mr-2 mt-2
          rounded-xl bg-blue-gray-500 bg-clip-border shadow-blue-gray-500/40"
                 >
                   <Image
@@ -94,7 +94,7 @@ const Third = () => {
 
               <div className="relative flex flex-col text-gray-700 bg-white shadow-md w-96 rounded-xl bg-clip-border mt-8">
                 <div
-                  className="relative h-56  overflow-hidden text-white shadow-lg ml-2 mr-2
+                  className="relative h-56  overflow-hidden text-white shadow-lg ml-2 mr-2 mt-2
         rounded-xl bg-blue-gray-500 bg-clip-border shadow-blue-gray-500/40"
                 >
                   <Image

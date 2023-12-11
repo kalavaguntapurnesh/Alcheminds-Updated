@@ -18,7 +18,7 @@ const Five = () => {
                   alt=""
                   width={224}
                   height={224}
-                  className="w-full h-full rounded-xl ml-1 mr-1 mt-1 mb-1"
+                  className="w-full h-full rounded-xl ml-1 mr-1 mt-1 mb-1 shadow-[0_3px_10px_rgb(0,0,0,0.2)]"
                 ></Image>
               </div>
               <div className="flex flex-col flex-1 p-6 space-y-6">
@@ -63,7 +63,7 @@ const Five = () => {
                   alt=""
                   width={224}
                   height={224}
-                  className="w-full h-full rounded-xl ml-1 mr-1 mt-1 mb-1"
+                  className="w-full h-full rounded-xl ml-1 mr-1 mt-1 mb-1 shadow-[0_3px_10px_rgb(0,0,0,0.2)]"
                 ></Image>
               </div>
               <div className="flex flex-col flex-1 p-6 space-y-6">
@@ -108,7 +108,7 @@ const Five = () => {
                   alt=""
                   width={224}
                   height={224}
-                  className="w-full h-full rounded-xl ml-1 mr-1 mt-1 mb-1"
+                  className="w-full h-full rounded-xl ml-1 mr-1 mt-1 mb-1 shadow-[0_3px_10px_rgb(0,0,0,0.2)]"
                 ></Image>
               </div>
               <div className="flex flex-col flex-1 p-6 space-y-6">
