@@ -28,7 +28,7 @@ const Hero = () => {
                     </a>
 
                     <a
-                      href="/about"
+                      href="/contact"
                       className="inline-flex items-center justify-center font-bold transition duration-200 ease-in-out focus:outline-none border-2 border-companyColor text-black hover:bg-companyColor px-10 py-4 text-xl rounded-xl"
                     >
                       Contact Us
