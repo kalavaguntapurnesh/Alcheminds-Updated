@@ -82,7 +82,7 @@ const Navbar = () => {
             : "md:hidden fixed left-0 top-0 w-[60%] border-r border-r-gray-900 h-[75%] bg-[#000300] ease-in-out duration-1000 rounded-b-lg z-10"
         }
       >
-        <h1 className="w-full  text-3xl text-companyColor font-bold m-4 cursor-pointer">
+        <h1 className="w-full text-2xl text-companyColor font-bold m-4 cursor-pointer">
           ALCHEMINDS.
         </h1>
         <ul className=" uppercase p-4">
