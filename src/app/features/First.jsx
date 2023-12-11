@@ -9,7 +9,7 @@ const First = () => {
             <div className="justify-center w-full text-center pb-14">
               <div className="w-full max-w-7xl mx-auto space-y-4">
                 <h3 className="text-4xl font-semibold tracking-tight dark:text-black">
-                Our<span className="text-companyColor"> Services</span>
+                Services we<span className="text-companyColor"> Offer</span>
                 </h3>
                 <div className="prose-lg text-gray-600 dark:text-gray-800">
                   <p>
