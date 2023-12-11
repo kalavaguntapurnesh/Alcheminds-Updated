@@ -9,15 +9,15 @@ const Carousel = () => {
           <div className="grid items-center w-full grid-cols-1 gap-10 mx-auto md:gap-20 max-w-7xl md:grid-cols-2">
             <div className="flex justify-center md:order-last relative z-10 col-span-1">
               <div className="w-full max-w-xl space-y-8">
-                <h3 className="md:text-4xl font-bold tracking-tight text-4xl  md:block hidden dark:text-white">
+                <h3 className="md:text-4xl font-bold tracking-tight text-4xl  md:block hidden dark:text-black">
                   Our Premium Custom Software Development{" "}
                   <span className="text-companyColor">Services</span>
                 </h3>
-                <h3 className="md:text-4xl font-bold tracking-tight text-4xl md:hidden block ml-4 mr-4 dark:text-white">
+                <h3 className="md:text-4xl font-bold tracking-tight text-4xl md:hidden block ml-4 mr-4 dark:text-black">
                   Our Custom Software Development{" "}
                   <span className="text-companyColor">Works</span>
                 </h3>
-                <p className="max-w-lg text-lg font-medium text-gray-600 dark:text-gray-300 md:ml-0 ml-4 md:mr-0 mr-4">
+                <p className="max-w-lg text-lg font-medium text-gray-600 dark:text-gray-800 md:ml-0 ml-4 md:mr-0 mr-4">
                   Turning your vision into reality with Alcheminds premium
                   custom software solutions.
                 </p>
