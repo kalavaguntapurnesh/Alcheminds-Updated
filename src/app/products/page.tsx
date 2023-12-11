@@ -1,5 +1,5 @@
 import Image from "next/image";
-import Navbar from "@/app/features/Navbar";
+import Navbar from "@/app/components/Navbar";
 import Zero from "@/app/products/Zero"
 import First from "@/app/products/First";
 import Two from "@/app/products/Two";
