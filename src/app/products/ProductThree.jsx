@@ -4,7 +4,7 @@ import Image from "next/image";
 const ProductThree = () => {
   return (
     <div className="bg-white">
-      <div className="relative pt-40 pb-16">
+      <div className="relative md:pt-32 pt-12 pb-16">
         <div className="w-full">
           <div className="grid items-center w-full grid-cols-1 gap-10 px-4 mx-auto md:gap-20 max-w-7xl md:grid-cols-2">
             <div className="relative z-10 col-span-1">
@@ -96,7 +96,7 @@ const ProductThree = () => {
                 src="/productThree.jpg"
                 width={580}
                 height={360}
-                className="w-[580px] h-[320px] rounded-xl shadow-[0_3px_10px_rgb(0,0,0,0.2)]"
+                className="w-[580px] md:h-[340px] h-[310px] rounded-xl shadow-[0_3px_10px_rgb(0,0,0,0.2)]"
                 alt="image"
               ></Image>
             </div>
