@@ -4,16 +4,9 @@ import Image from "next/image";
 const Three = () => {
   return (
     <div className="bg-gray-50">
-      <div className="relative py-16">
+      <div className="relative py-4">
         <div className="w-full">
           <div className="w-full px-4 mx-auto">
-            <div className="justify-center w-full text-center pb-8">
-                <div className="w-full max-w-3xl mx-auto space-y-4">
-                    <h2 className="text-base font-medium tracking-widest text-gray-500 uppercase dark:text-white">Get Inspired</h2>
-                    <h3 className="text-4xl font-bold tracking-tight dark:text-white">Here are the latest features we offer!!</h3>
-                </div>
-            </div>
-            
             <div className="w-full flex flex-wrap justify-evenly mt-10 pb-4 pt-4 md:pl-28 md:pr-28">
               <div className="relative flex flex-col text-gray-700 bg-white shadow-md w-96 rounded-xl bg-clip-border mt-8">
                 <div
@@ -28,10 +21,10 @@ const Three = () => {
                   />
                 </div>
                 <div className="p-6">
-                  <h1 className="block mb-2  text-center text-xl antialiased font-bold leading-snug tracking-normal text-primaryColor">
-                    Cirriculum Lesson Planning
+                  <h1 className="block mb-2 text-xl text-center font-bold leading-8 tracking-normal text-black">
+                    Edukare Learning <span className="text-companyColor">Platform</span>
                   </h1>
-                 
+
                   <p className="block text-base antialiased font-medium tracking-light text-gray-500">
                     Education care software assists teachers in creating and
                     organizing lesson plans, syllabi, and learning materials. It
@@ -39,11 +32,10 @@ const Three = () => {
                     standards and can be easily customized to meet specific
                     needs.
                   </p>
-               
                 </div>
                 <div className="p-6 pt-0">
                   <button
-                    className="select-none  rounded-[4px] bg-primaryColor py-3 px-6 text-center align-middle font-sans text-xs font-bold uppercase text-white shadow-md  transition-all hover:shadow-lg  focus:opacity-[0.85] focus:shadow-none active:opacity-[0.85] active:shadow-none disabled:pointer-events-none disabled:opacity-50 disabled:shadow-none"
+                    className="select-none  rounded-xl bg-companyColor py-3 px-6 text-center align-middle font-sans text-xs font-bold uppercase text-white shadow-md  transition-all hover:shadow-lg  focus:opacity-[0.85] focus:shadow-none active:opacity-[0.85] active:shadow-none disabled:pointer-events-none disabled:opacity-50 disabled:shadow-none"
                     type="button"
                   >
                     Read More
@@ -64,8 +56,8 @@ const Three = () => {
                   />
                 </div>
                 <div className="p-6">
-                  <h1 className="block mb-2 text-center text-xl antialiased font-bold leading-snug tracking-normal text-primaryColor">
-                    Assesment & Grading
+                  <h1 className="block mb-2 text-xl text-center font-bold leading-8 tracking-normal text-black">
+                    DentalKare Health <span className="text-companyColor">Software</span>
                   </h1>
                   <p className="block text-base antialiased font-medium tracking-light text-gray-500">
                     Education care software simplifies the process of creating
@@ -77,7 +69,7 @@ const Three = () => {
                 </div>
                 <div className="p-6 pt-0">
                   <button
-                    className="select-none  rounded-[4px] bg-primaryColor py-3 px-6 text-center align-middle font-sans text-xs font-bold uppercase text-white shadow-md  transition-all hover:shadow-lg  focus:opacity-[0.85] focus:shadow-none active:opacity-[0.85] active:shadow-none disabled:pointer-events-none disabled:opacity-50 disabled:shadow-none"
+                    className="select-none  rounded-xl bg-companyColor py-3 px-6 text-center align-middle font-sans text-xs font-bold uppercase text-white shadow-md  transition-all hover:shadow-lg  focus:opacity-[0.85] focus:shadow-none active:opacity-[0.85] active:shadow-none disabled:pointer-events-none disabled:opacity-50 disabled:shadow-none"
                     type="button"
                   >
                     Read More
@@ -98,8 +90,8 @@ const Three = () => {
                   />
                 </div>
                 <div className="p-6">
-                  <h1 className="block mb-2  text-xl  text-center antialiased font-bold leading-snug tracking-normal text-primaryColor">
-                    Analytics & Reporting
+                  <h1 className="block mb-2 text-xl text-center font-bold leading-8 tracking-normal text-black">
+                    LogBucks Process <span className="text-companyColor">Tracking</span>
                   </h1>
                   <p className="block text-base antialiased font-medium tracking-light text-gray-500">
                     Education care software often includes analytical tools that
@@ -110,7 +102,7 @@ const Three = () => {
                 </div>
                 <div className="p-6 pt-0">
                   <button
-                    className="select-none  rounded-[4px] bg-primaryColor py-3 px-6 text-center align-middle font-sans text-xs font-bold uppercase text-white shadow-md transition-all hover:shadow-lg  focus:opacity-[0.85] focus:shadow-none active:opacity-[0.85] active:shadow-none disabled:pointer-events-none disabled:opacity-50 disabled:shadow-none"
+                    className="select-none  rounded-xl bg-companyColor py-3 px-6 text-center align-middle font-sans text-xs font-bold uppercase text-white shadow-md transition-all hover:shadow-lg  focus:opacity-[0.85] focus:shadow-none active:opacity-[0.85] active:shadow-none disabled:pointer-events-none disabled:opacity-50 disabled:shadow-none"
                     type="button"
                   >
                     Read More

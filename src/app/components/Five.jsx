@@ -14,7 +14,7 @@ const Five = () => {
             >
               <div className="relative flex items-center justify-center h-56 overflow-hidden ">
                 <Image
-                  src="/young-attractive-smiling-student.jpg"
+                  src="/eduKare.jpg"
                   alt=""
                   width={224}
                   height={224}
@@ -33,9 +33,9 @@ const Five = () => {
                 </div>
 
                 <div className="flex items-center space-x-2 font-medium text-base text-gray-600">
-                  <span>Read More</span>
+                  <span className="text-companyColor">Read More</span>
                   <svg
-                    class="w-5 h-5"
+                    class="w-5 h-5 text-companyColor"
                     fill="none"
                     stroke="currentColor"
                     viewBox="0 0 24 24"
@@ -59,7 +59,7 @@ const Five = () => {
             >
               <div className="relative flex items-center justify-center h-56  overflow-hidden ">
                 <Image
-                  src="/young-doctor-holding-paper-idea-.jpg"
+                  src="/dentalKare.jpg"
                   alt=""
                   width={224}
                   height={224}
@@ -78,9 +78,9 @@ const Five = () => {
                 </div>
 
                 <div className="flex items-center space-x-2 font-medium text-base text-gray-600">
-                  <span>Read More</span>
+                <span className="text-companyColor">Read More</span>
                   <svg
-                    class="w-5 h-5"
+                    class="w-5 h-5 text-companyColor"
                     fill="none"
                     stroke="currentColor"
                     viewBox="0 0 24 24"
@@ -104,7 +104,7 @@ const Five = () => {
             >
               <div className="relative flex items-center justify-center h-56 overflow-hidden ">
                 <Image
-                  src="/closeup-economist-using-calculat.jpg"
+                  src="/logbucks.jpg"
                   alt=""
                   width={224}
                   height={224}
@@ -122,9 +122,9 @@ const Five = () => {
                 </div>
 
                 <div className="flex items-center space-x-2 font-medium text-base text-gray-600">
-                  <span>Read More</span>
+                <span className="text-companyColor">Read More</span>
                   <svg
-                    class="w-5 h-5"
+                    class="w-5 h-5 text-companyColor"
                     fill="none"
                     stroke="currentColor"
                     viewBox="0 0 24 24"

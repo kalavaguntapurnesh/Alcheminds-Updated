@@ -10,7 +10,7 @@ const First = () => {
             <div className="justify-center w-full text-center pb-14">
               <div className="w-full max-w-5xl mx-auto space-y-4">
                 <h3 className="text-4xl font-semibold tracking-tight dark:text-white">
-                  <span className="text-companyColor">About</span> Us
+                  About <span className="text-companyColor">Us</span>
                 </h3>
                 <div className="prose-lg text-gray-600 dark:text-white">
                   <p>
@@ -32,12 +32,18 @@ const First = () => {
                 className="h-full p-4 bg-white border border-gray-200 rounded-lg shadow-lg shadow-gray-900/10 md:p-6"
               >
                 <div className="flex flex-col space-y-6">
-                  <div className="shrink-0">
-                    <Image src="" alt="" width={48} height={48}></Image>
+                  <div className="shrink-0 ">
+                    <Image
+                      src="/profile.jpg"
+                      alt=""
+                      width={52}
+                      height={52}
+                      className="w-14 h-14 rounded-lg"
+                    ></Image>
                   </div>
                   <div className="flex-1">
                     <h5 className="text-xl font-semibold text-gray-900">
-                      EduKare
+                      Edu<span className="text-companyColor">Kare</span>
                     </h5>
                     <div className="text-base text-gray-600 mt-2">
                       Education care software is a comprehensive and innovative
@@ -54,11 +60,17 @@ const First = () => {
               >
                 <div className="flex flex-col space-y-6">
                   <div className="shrink-0">
-                    <Image src="" alt="" width={48} height={48}></Image>
+                    <Image
+                      src="/insta.jpg"
+                      alt=""
+                      width={48}
+                      height={48}
+                      className="w-12 h-12 rounded-lg "
+                    ></Image>
                   </div>
                   <div className="flex-1">
                     <h5 className="text-xl font-semibold text-gray-900">
-                      DentalKare
+                      Dental<span className="text-companyColor">Kare</span>
                     </h5>
                     <div className="text-base text-gray-600 mt-2">
                       Dental care software is a specialized digital solution
@@ -75,11 +87,17 @@ const First = () => {
               >
                 <div className="flex flex-col space-y-6">
                   <div className="shrink-0">
-                    <Image src="" alt="" width={48} height={48}></Image>
+                    <Image
+                      src="/profile.jpg"
+                      alt=""
+                      width={48}
+                      height={48}
+                      className="w-12 h-12 rounded-lg "
+                    ></Image>
                   </div>
                   <div className="flex-1">
                     <h5 className="text-xl font-semibold text-gray-900">
-                      LogBucks
+                      Log<span className="text-companyColor">Bucks</span>
                     </h5>
                     <div className="text-base text-gray-600 mt-2">
                       Time log, hourly rate, billing software is a specialized

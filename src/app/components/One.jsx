@@ -15,7 +15,7 @@ const One = () => {
                 <div>
                     <MdOutlineCastForEducation className="w-[40px] h-[40px] text-companyColor" />
                 </div>
-                <div className="text-lg leading-7 text-gray-500">
+                <div className="text-lg leading-7 text-black font-semibold">
                     Improvised Study Platform
                 </div>
             </div>
@@ -23,16 +23,16 @@ const One = () => {
                 <div>
                     <GrTechnology className="w-[40px] h-[40px] text-companyColor" />
                 </div>
-                <div className="text-lg leading-7 text-gray-500">
-                    Patient Health Management 
+                <div className="text-lg leading-7 text-black font-semibold">
+                    Patient Treatment Planning
                 </div>
             </div>
             <div className=" flex flex-row space-x-4 justify-center items-center w-full">
                 <div>
                     <GrAd className="w-[40px] h-[40px] text-companyColor" />
                 </div>
-                <div className="text-lg leading-7 text-gray-500">
-                    Tracking Billable Hours
+                <div className="text-lg leading-7 text-black font-semibold">
+                    Project Oversight Tracking
                 </div>
             </div>
           </div>

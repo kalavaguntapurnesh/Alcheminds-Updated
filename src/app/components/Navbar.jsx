@@ -18,7 +18,7 @@ const Navbar = () => {
       className="text-black flex justify-between h-24 w-full md:shadow-xl shadow-xl md:fixed fixed md:top-0 top-0
      md:z-20 z-20 bg-white "
     >
-      <div className="md:ml-4 lg:block hidden">
+      <div className="md:ml-12 lg:block hidden ">
         <Image
           src="/logo_copy.png"
           alt=""
@@ -40,20 +40,20 @@ const Navbar = () => {
 
       
 
-      <ul className="hidden md:flex  pt-4">
-        <li className="lg:p-4 p-[11px] cursor-pointer text-primaryColor font-medium hover:text-black">
+      <ul className="hidden md:flex  md:pt-4 md:pr-12">
+        <li className="lg:p-4 p-[11px] cursor-pointer text-black font-medium hover:text-black">
           <Link href="/">Home</Link>
         </li>
-        <li className="lg:p-4 p-[11px] cursor-pointer text-primaryColor font-medium hover:text-black">
+        <li className="lg:p-4 p-[11px] cursor-pointer text-black font-medium hover:text-black">
           <Link href="/about">About</Link>
         </li>
-        <li className="lg:p-4 p-[11px] cursor-pointer text-primaryColor font-medium hover:text-black">
+        <li className="lg:p-4 p-[11px] cursor-pointer text-black font-medium hover:text-black">
           <Link href="/features">Features</Link>
         </li>
-        <li className="lg:p-4 p-[11px] cursor-pointer text-primaryColor font-medium hover:text-black">
+        <li className="lg:p-4 p-[11px] cursor-pointer text-black font-medium hover:text-black">
           <Link href="/products">Services</Link>
         </li>
-        <li className="lg:p-4 p-[11px] cursor-pointer text-primaryColor font-medium hover:text-black">
+        <li className="lg:p-4 p-[11px] cursor-pointer text-black font-medium hover:text-black">
           <Link href="/contact">Contact</Link>
         </li>
         <li className="lg:p-4 p-[11px] cursor-pointer ">
