@@ -8,7 +8,7 @@ const Five = () => {
         <div className="w-full space-y-16">
           <div className="grid w-full grid-cols-1 gap-10 px-4 mx-auto max-w-7xl sm:grid-cols-2 lg:grid-cols-3">
             <a
-              href=""
+              href="/products"
               className="flex flex-col overflow-hidden transition
             duration-300 ease-in-out bg-white rounded-lg shadow-lg hover:shadow-xl hover:no-underline"
             >
@@ -27,9 +27,8 @@ const Five = () => {
                 </div>
 
                 <div class="text-2xl font-bold tracking-tight text-gray-900">
-                  Education care software is 
-                   designed to streamline and enhance various aspects of
-                  the education sector
+                  Education care software is designed to streamline and enhance
+                  various aspects of the education sector
                 </div>
 
                 <div className="flex items-center space-x-2 font-medium text-base text-gray-600">
@@ -53,7 +52,7 @@ const Five = () => {
             </a>
 
             <a
-              href=""
+              href="/products"
               className="flex flex-col overflow-hidden transition
             duration-300 ease-in-out bg-white rounded-lg shadow-lg hover:shadow-xl hover:no-underline"
             >
@@ -72,13 +71,12 @@ const Five = () => {
                 </div>
 
                 <div class="text-2xl font-bold tracking-tight text-gray-900">
-                  Dental care software is 
-                  designed to optimize and enhance various aspects of dental
-                   and patient care
+                  Dental care software is designed to optimize and enhance
+                  various aspects of dental and patient care
                 </div>
 
                 <div className="flex items-center space-x-2 font-medium text-base text-gray-600">
-                <span className="text-companyColor">Read More</span>
+                  <span className="text-companyColor">Read More</span>
                   <svg
                     class="w-5 h-5 text-companyColor"
                     fill="none"
@@ -98,7 +96,7 @@ const Five = () => {
             </a>
 
             <a
-              href=""
+              href="/products"
               className="flex flex-col overflow-hidden transition
             duration-300 ease-in-out bg-white rounded-lg shadow-lg hover:shadow-xl hover:no-underline"
             >
@@ -117,12 +115,12 @@ const Five = () => {
                 </div>
 
                 <div class="text-2xl font-bold tracking-tight text-gray-900">
-                  Time log, hourly rate, billing software is designed to streamline the
-                  process of tracking billable hours
+                  Time log, hourly rate, billing software is designed to
+                  streamline the process of tracking billable hours
                 </div>
 
                 <div className="flex items-center space-x-2 font-medium text-base text-gray-600">
-                <span className="text-companyColor">Read More</span>
+                  <span className="text-companyColor">Read More</span>
                   <svg
                     class="w-5 h-5 text-companyColor"
                     fill="none"

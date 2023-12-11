@@ -22,7 +22,7 @@ const One = () => {
           </div>
         </div>
       </div>
-      <div className="w-full max-w-3xl mx-auto items-center justify-center pb-8">
+      <div className="w-full max-w-[700px] mx-auto items-center justify-center pb-8">
         <form action="#" class="space-y-8">
           <div className="md:ml-0 ml-4 md:mr-0 mr-4">
             <label

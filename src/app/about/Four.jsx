@@ -22,7 +22,7 @@ const Four = () => {
                   className="bg-companyColor text-white w-40 h-12 rounded-xl text-base inline-flex font-bold transition duration-150 ease-in-out focus:outline-none
                 items-center justify-center"
                 >
-                  Know More
+                  Contact Us
                 </button></Link>
               </div>
             </div>
