@@ -11,7 +11,7 @@ const Hero = () => {
               <div className="text-center max-w-7xl lg:text-left">
                 <h1 className="text-4xl font-bold leading-10 tracking-tight dark:text-black sm:text-6xl sm:leading-none md:max-w-2xl mx-auto">
                   More revenue, less churn, and happier customers-without
-                  changing your product
+                  changing your product.
                 </h1>
                 <div className="relative z-0 max-w-lg mx-auto mt-3 text-base font-medium text-gray-500 dark:text-gray-500 sm:text-lg md:mt-5 md:text-xl md:max-w-2xl">
                   We have built a large pool of knowledge that we apply to
