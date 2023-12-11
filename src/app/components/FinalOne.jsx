@@ -8,7 +8,7 @@ const FinalOne = () => {
         <div className="w-full">
           <div className="w-full px-6 mx-auto space-y-12 max-w-7xl">
             <div className="text-center">
-              <h2 className="text-4xl font-bold tracking-tight dark:text-white">
+              <h2 className="text-4xl font-bold tracking-tight dark:text-black">
                 What else can{" "}
                 <span className="text-companyColor">Alcheminds</span> do?
               </h2>
@@ -16,11 +16,11 @@ const FinalOne = () => {
             <div className="grid justify-center w-full grid-cols-1 gap-12  lg:gap-16 sm:grid-cols-2 lg:grid-cols-3">
               <div className="flex flex-col items-center">
                 <Image
-                  src="/productOne.png"
+                  src="/first.jpg"
                   alt="imageOne"
                   width={300}
                   height={300}
-                  className="w-full"
+                  className="md:w-11/12 w-full rounded-3xl"
                 ></Image>
                 <div className="p-6 space-y-4 text-center">
                   <h4 className="text-2xl font-semibold tracking-tight text-gray-900">
@@ -42,11 +42,11 @@ const FinalOne = () => {
 
               <div className="flex flex-col items-center">
                 <Image
-                  src="/productTwo.png"
+                  src="/lastTwo.jpg"
                   alt="imageOne"
                   width={300}
                   height={300}
-                  className="w-full"
+                  className="md:w-11/12 w-full rounded-3xl"
                 ></Image>
                 <div className="p-6 space-y-4 text-center">
                   <h4 className="text-2xl font-semibold tracking-tight text-gray-900">
@@ -68,11 +68,11 @@ const FinalOne = () => {
 
               <div className="flex flex-col items-center">
                 <Image
-                  src="/productThree.png"
+                  src="/lastThree.jpg"
                   alt="imageOne"
                   width={300}
                   height={300}
-                  className="w-full"
+                  className="md:w-11/12 w-full rounded-3xl"
                 ></Image>
                 <div className="p-6 space-y-4 text-center">
                   <h4 className="text-2xl font-semibold tracking-tight text-gray-900">

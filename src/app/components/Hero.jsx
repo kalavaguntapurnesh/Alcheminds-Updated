@@ -9,7 +9,7 @@ const Hero = () => {
           <div className="relative  grid items-center w-full grid-cols-1 gap-16 px-4 mx-auto lg:gap-10 md:gap-16 lg:grid-cols-2 max-w-7xl ">
             <div className="relative ">
               <div className="text-center max-w-7xl lg:text-left">
-                <h1 className="text-4xl font-bold leading-10 tracking-tight dark:text-white sm:text-6xl sm:leading-none md:max-w-2xl mx-auto">
+                <h1 className="text-4xl font-bold leading-10 tracking-tight dark:text-black sm:text-6xl sm:leading-none md:max-w-2xl mx-auto">
                   More revenue, less churn, and happier customers-without
                   changing your product
                 </h1>
