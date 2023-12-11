@@ -87,7 +87,7 @@ const Carousel = () => {
                 src="/second.jpg"
                 width={580}
                 height={360}
-                className="w-[580px] h-[360px] rounded-xl shadow-[0_3px_10px_rgb(0,0,0,0.2)]"
+                className="w-[580px] md:h-[360px] h-[310px] rounded-xl shadow-[0_3px_10px_rgb(0,0,0,0.2)]"
                 alt="image"
               ></Image>
             </div>
