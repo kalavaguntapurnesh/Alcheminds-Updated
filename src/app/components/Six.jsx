@@ -11,7 +11,7 @@ const Six = () => {
               <div className="flex flex-col justify-center items-center">
                 <div className="space-y-5">
                   <h3 className="text-4xl font-bold tracking-tight dark:text-white">
-                    We Design Together With Our Clients
+                    We Design Together With Our <span className="text-companyColor">Clients</span>
                   </h3>
                   <p className="text-lg text-gray-600 dark:text-white/70">
                     While working for AlcheMinds Solutions, you can be assured a
@@ -22,9 +22,9 @@ const Six = () => {
               </div>
               <div >
                 <Image
-                  src="/productOne.png"
-                  width={500}
-                  height={300}
+                  src="/first.jpg"
+                  width={580}
+                  height={320} className="w-[580px] h-[320px] rounded-xl shadow-[0_3px_10px_rgb(0,0,0,0.2)]"
                   alt="image"
                 ></Image>
               </div>
@@ -32,8 +32,8 @@ const Six = () => {
 
             <div className="grid w-full grid-cols-1 gap-10 pt-16 md:grid-cols-3">
               <div className="flex flex-col space-y-2">
-                <h5 className="text-xl font-medium text-gray-900 dark:text-white">
-                  Loyalty for Clients
+                <h5 className="text-xl font-semibold text-gray-900 dark:text-white">
+                  Loyalty for <span className="text-companyColor">Clients</span>
                 </h5>
                 <div className="text-base text-gray-600 dark:text-white/70">
                   <p>
@@ -44,8 +44,8 @@ const Six = () => {
               </div>
 
               <div className="flex flex-col space-y-2">
-                <h5 className="text-xl font-medium text-gray-900 dark:text-white">
-                  Higher Client Satisfaction
+                <h5 className="text-xl font-semibold text-gray-900 dark:text-white">
+                  Higher Client <span className="text-companyColor">Satisfaction</span>
                 </h5>
                 <div className="text-base text-gray-600 dark:text-white/70">
                   <p>
@@ -57,8 +57,8 @@ const Six = () => {
               </div>
 
               <div className="flex flex-col space-y-2">
-                <h5 className="text-xl font-medium text-gray-900 dark:text-white">
-                  Reliable Client Growth
+                <h5 className="text-xl font-semibold text-gray-900 dark:text-white">
+                  Reliable Client <span className="text-companyColor">Growth</span>
                 </h5>
                 <div className="text-base text-gray-600 dark:text-white/70">
                   <p>

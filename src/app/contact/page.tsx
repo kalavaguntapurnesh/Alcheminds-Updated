@@ -1,5 +1,5 @@
 import Image from 'next/image'
-import Navbar from "@/app/contact/Navbar"
+import Navbar from "@/app/components/Navbar"
 import Footer from "@/app/contact/Footer"
 
 
