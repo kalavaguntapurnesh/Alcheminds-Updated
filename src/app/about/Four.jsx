@@ -1,5 +1,5 @@
-import React from "react";
-import Link from "next/link";
+import React from 'react'
+import Link from 'next/link'
 
 const Four = () => {
   return (
@@ -27,7 +27,7 @@ const Four = () => {
               </div>
             </div>
     </div>
-  );
-};
+  )
+}
 
-export default Four;
+export default Four
