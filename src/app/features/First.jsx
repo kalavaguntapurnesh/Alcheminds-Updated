@@ -8,10 +8,10 @@ const First = () => {
           <div className="w-full px-4 mx-auto max-w-7xl">
             <div className="justify-center w-full text-center pb-14">
               <div className="w-full max-w-7xl mx-auto space-y-4">
-                <h3 className="text-4xl font-semibold tracking-tight dark:text-white">
+                <h3 className="text-4xl font-semibold tracking-tight dark:text-black">
                 Our<span className="text-companyColor"> Services</span>
                 </h3>
-                <div className="prose-lg text-gray-600 dark:text-white">
+                <div className="prose-lg text-gray-600 dark:text-gray-800">
                   <p>
                     Our experience in various business verticals/domains and
                     different technologies allows us to serve customers of all

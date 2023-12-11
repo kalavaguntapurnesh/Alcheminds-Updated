@@ -1,5 +1,5 @@
 import React from "react";
-import Image from "next/image"
+import Image from "next/image";
 
 const Two = () => {
   return (
@@ -13,20 +13,25 @@ const Two = () => {
                   <h2 className="text-base font-medium tracking-widest text-gray-500 uppercase">
                     Growth or Enterprise Plans
                   </h2>
-                  <h3 className="text-4xl font-bold tracking-tight dark:text-white">
-                    For teams of scale
+                  <h3 className="text-4xl font-bold tracking-tight dark:text-black">
+                    Work life simpler, more pleasant and more{" "}
+                    <span className="text-companyColor">productive</span>
                   </h3>
-                  <p className="text-lg text-gray-600 dark:text-white/70">
-                    Manage and scale in-product Experiences with no risk of
-                    backfire. Rate Limiting is built for product-led teams who
-                    put users first
+                  <p className="text-lg text-gray-600 dark:text-gray-800">
+                    AlcheMinds Solutions offers a unique mix of stimulating work
+                    environment, continuous growth avenues, and a competitive
+                    benefits package.
                   </p>
                 </div>
               </div>
               <div className="order-first">
-                <Image src="/productOne.png" alt="product" width={500} height={350}></Image>
-
-
+                <Image
+                  src="/second.jpg"
+                  width={580}
+                  height={360}
+                  className="w-[580px] h-[360px] rounded-xl shadow-[0_3px_10px_rgb(0,0,0,0.2)]"
+                  alt="image"
+                ></Image>
               </div>
             </div>
           </div>

@@ -4,16 +4,16 @@ import Image from "next/image";
 const Two = () => {
   return (
     <div className="bg-white">
-      <div className="relative py-16">
+      <div className="relative py-12">
         <div className="w-full">
           <div className="grid items-center w-full grid-cols-1 gap-10 px-4 mx-auto md:gap-20 max-w-7xl md:grid-cols-2">
             <div className="flex justify-center md:order-last relative z-10 col-span-1">
               <div className="w-full max-w-xl space-y-8">
-                <h3 className="text-3xl font-bold tracking-tight sm:text-4xl dark:text-white">
+                <h3 className="text-3xl font-bold tracking-tight sm:text-4xl dark:text-black">
                   How Alcheminds is reliable than our{" "}
                   <span className="text-companyColor">competitors</span>
                 </h3>
-                <p className="max-w-lg text-lg font-medium text-gray-600 dark:text-gray-300">
+                <p className="max-w-lg text-lg font-medium text-gray-600 dark:text-gray-800">
                   Our experience in various business verticals/domains and
                   different technologies allows us to serve customers of all
                   sizes around the world, providing with software system
@@ -80,10 +80,11 @@ const Two = () => {
             </div>
             <div className="relative z-10 flex items-center justify-center col-span-1">
               <Image
-                src="/productOne.png"
-                alt=""
-                width={400}
-                height={400}
+                src="/aboutOne.jpg"
+                width={580}
+                height={360}
+                className="w-[580px] h-[360px] rounded-xl shadow-[0_3px_10px_rgb(0,0,0,0.2)]"
+                alt="image"
               ></Image>
             </div>
           </div>
