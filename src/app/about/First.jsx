@@ -8,7 +8,7 @@ const First = () => {
         <div className="w-full">
           <div className="w-full px-4 mx-auto max-w-7xl">
             <div className="justify-center w-full text-center pb-14">
-              <div className="w-full max-w-5xl mx-auto space-y-4">
+              <div className="w-full max-w-7xl mx-auto space-y-4">
                 <h3 className="text-4xl font-semibold tracking-tight dark:text-black">
                   About <span className="text-companyColor">Us</span>
                 </h3>
