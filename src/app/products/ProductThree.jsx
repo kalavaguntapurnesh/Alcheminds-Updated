@@ -95,7 +95,7 @@ const ProductThree = () => {
               <Image
                 src="/productThree.jpg"
                 width={580}
-                height={320}
+                height={360}
                 className="w-[580px] h-[320px] rounded-xl shadow-[0_3px_10px_rgb(0,0,0,0.2)]"
                 alt="image"
               ></Image>
