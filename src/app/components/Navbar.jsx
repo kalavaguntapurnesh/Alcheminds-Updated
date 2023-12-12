@@ -15,20 +15,27 @@ const Navbar = () => {
 
   return (
     <div
-      className="text-black flex justify-between h-24 w-full md:shadow-xl shadow-xl md:fixed fixed md:top-0 top-0
+      className="text-black flex justify-between  h-24 w-full md:shadow-xl shadow-xl md:fixed fixed md:top-0 top-0
      md:z-20 z-20 bg-white "
     >
-      <div className="md:ml-12 lg:block hidden ">
+    
+      <div className=" flex flex-row md:ml-8 lg:block hidden ml-2">
         <Image
           src="/logo_copy.png"
           alt=""
           width={120}
           height={100}
-          className=" md:pb-4 text-3xl text-red-500 font-bold  lg:pl-12 pl-6 pt-4 cursor-pointer"
+          className=" md:pb-4 text-3xl text-red-500 font-bold  lg:pl-12 pl-6 pt-3 cursor-pointer"
         ></Image>
+       <div className="absolute top-[29px] left-[163px] font-bold text-[30px] hidden xl:block">
+        <h2><span className="text-companyColor">Alche</span>minds.</h2>
       </div>
 
-      <div className="md:ml-4 lg:hidden block">
+      </div>
+      
+      
+
+      <div className="md:ml-4 lg:hidden block ">
         <Image
           src="/logo_copy.png"
           alt=""
@@ -36,11 +43,12 @@ const Navbar = () => {
           height={90}
           className="pb-4 pl-6 pt-3.5 cursor-pointer"
         ></Image>
+       
       </div>
-
+      
       
 
-      <ul className="hidden md:flex  md:pt-4 md:pr-12">
+      <ul className="hidden md:flex md:pt-4 md:pr-12">
         <li className="lg:p-4 p-[11px] cursor-pointer text-black font-medium hover:text-black">
           <Link href="/">Home</Link>
         </li>
