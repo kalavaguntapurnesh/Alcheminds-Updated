@@ -7,7 +7,7 @@ const First = () => {
       <div className="relative md:pt-32 pt-12 pb-16">
         <div className="w-full">
           <div className="grid items-center w-full grid-cols-1 gap-10 px-4 mx-auto md:gap-20 max-w-7xl md:grid-cols-2">
-            <div className="relative z-10 col-span-1">
+            <div className="relative col-span-1">
               <div className="w-full max-w-xl space-y-8">
                 <h3 className="text-3xl font-bold tracking-tight sm:text-4xl dark:text-black">
                   EduKare software is an innovative solution designed for{" "}
@@ -90,7 +90,7 @@ const First = () => {
                 </ul>
               </div>
             </div>
-            <div className="relative z-10 flex items-center justify-center col-span-1">
+            <div className="relative flex items-center justify-center col-span-1">
               <Image
                 src="/productOne.jpg"
                 width={580}
