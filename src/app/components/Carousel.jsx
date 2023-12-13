@@ -7,7 +7,7 @@ const Carousel = () => {
       <div className="relative py-16">
         <div className="w-full">
           <div className="grid items-center w-full grid-cols-1 gap-10 mx-auto md:gap-20 max-w-7xl md:grid-cols-2">
-            <div className="flex justify-center md:order-last relative z-10 col-span-1">
+            <div className="flex justify-center md:order-last relative col-span-1">
               <div className="w-full max-w-xl space-y-8">
                 <h3 className="md:text-4xl font-bold tracking-tight text-4xl  md:block hidden dark:text-black">
                   Our Premium Custom Software Development{" "}
@@ -82,7 +82,7 @@ const Carousel = () => {
                 </ul>
               </div>
             </div>
-            <div className="relative z-10 flex items-center justify-center col-span-1 md:ml-1 ml-4 md:mr-1 mr-4">
+            <div className="relative flex items-center justify-center col-span-1 md:ml-1 ml-4 md:mr-1 mr-4">
               <Image
                 src="/second.jpg"
                 width={580}

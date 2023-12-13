@@ -1,3 +1,4 @@
+"use client";
 import Image from "next/image";
 import Navbar from "@/app/components/Navbar";
 import Hero from "@/app/components/Hero";
@@ -9,6 +10,7 @@ import Six from "@/app/components/Six";
 import Carousel from "@/app/components/Carousel";
 import FinalOne from "@/app/components/FinalOne";
 import Footer from "@/app/components/Footer";
+import ScrollToTop from "@/app/components/ScrollToTop"
 
 export default function Home() {
   return (
@@ -16,6 +18,7 @@ export default function Home() {
       <Navbar />
       <Hero />
       <One />
+      <ScrollToTop/>
       <Third />
       <Five />
       <Six />
